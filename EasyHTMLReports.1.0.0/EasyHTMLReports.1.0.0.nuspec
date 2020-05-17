@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>EasyHTMLReports</id>
+    <version>1.0.0</version>
+    <title>Easy HTML Reports For Winforms</title>
+    <authors>KimTooFlex</authors>
+    <owners>KimTooFlex</owners>
+    <licenseUrl>https://www.nuget.org/packages/EasyHTMLReports/1.0.0/license</licenseUrl>
+    <projectUrl>https://bunifuframework.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/easyhtmlreports/1.0.0/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A light weight Winforms Library to Generate Awesome styled reports Using HTML and CSS</description>
+    <summary>A light weight Winforms Library to Generate Awesome styled reports Using HTML and CSS</summary>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>© 2019 KimTooFLex</copyright>
+    <tags>A light weight Winforms Library to Generate Awesome styled reports Using HTML and CSS</tags>
+  </metadata>
+</package>
